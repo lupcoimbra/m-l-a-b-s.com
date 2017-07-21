@@ -2,21 +2,21 @@
 Desenvolvido Por: mLabs
 -->
 <?php
-$url = "http://m-l-a-b-s.com/";
-$title = "mLabs";
+$url = "http://www.richlaser.com.br/";
+$title = "RichLaser";
 
 $var = array(
         "1" => array(
                   "titulo" => "mLabs",
-                  "image" => "http://gph.is/2m6xCjt"
+                  "image" => "http://gph.is/1bDvJAi"
                   ),
         "2" => array(
                   "titulo" => "mLabs",
-                  "image" => "http://gph.is/1pptU1s"
+                  "image" => "http://gph.is/16cbsim"
                   ),
         "3" => array(
                   "titulo" => "mLabs",
-                  "image" => "http://gph.is/NYwUyC"
+                  "image" => "http://gph.is/1gFSH56"
                   ),
         );
 
